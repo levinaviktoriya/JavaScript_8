@@ -1,0 +1,43 @@
+.wrap {
+	width: 960px;
+	margin: 0 auto;
+	padding: 15px;
+	box-sizing: border-box;
+    background: rgba(255, 255, 255, 0.7);
+    border: 5px solid #b976af;
+    border-radius: 10px;
+    box-shadow: 1px 1px 7px rgba(0,0,0,.7);
+}
+h1 {
+	text-align: center;
+    font-size: 36px;
+    font-family: sans-serif;
+}
+h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+h3 {
+    font-size: 24px;
+    font-family: sans-serif;
+}
+body {
+	background: url(http://www.bestwallpapers.net.ru/private/img/flowers/flowers_03.04.2009_bw_065.jpg) repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+    background-attachment: fixed;
+    color: #3a0256;
+}
+.line {
+    width: 90%;
+    background: #0000006b;
+    display: block;
+    height: 1px;
+    margin: 50px auto;
+}
+img {
+    max-width: 100%;
+}
+a {
+    color: #002b6d !important;  
+}
